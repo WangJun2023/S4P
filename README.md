@@ -1,5 +1,5 @@
 # S4P
-This is the source code for "Spatial and Spectral Structure Preserved Self-Representation for Unsupervised Hyperspectral Band Selection", TGRS 2023.
+This is the source code for "Spatial and Spectral Structure Preserved Self-Representation for Unsupervised Hyperspectral Band Selection", IEEE TGRS 2023.
 
 More datasets can be downloaded from <a href=https://pan.baidu.com/s/1EwQyf33UeWZQgwDjQpjhzQ>百度网盘</a>
 提取码：5sy0
